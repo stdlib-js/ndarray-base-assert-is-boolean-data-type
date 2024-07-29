@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isBooleanDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-boolean-data-type@esm/index.mjs';
+import isBooleanDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-boolean-data-type@v0.1.0-esm/index.mjs';
 ```
 
 #### isBooleanDataType( value )
@@ -93,7 +93,7 @@ bool = isBooleanDataType( 'uint32' );
 <body>
 <script type="module">
 
-import isBooleanDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-boolean-data-type@esm/index.mjs';
+import isBooleanDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-boolean-data-type@v0.1.0-esm/index.mjs';
 
 var bool = isBooleanDataType( 'binary' );
 // returns false
