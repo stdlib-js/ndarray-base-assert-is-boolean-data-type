@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-11)
+## Unreleased (2025-09-19)
+
+<section class="features">
+
+### Features
+
+-   [`be5553d`](https://github.com/stdlib-js/stdlib/commit/be5553d64471b61353e42499666ab50502ab136b) - add support for non-string data types
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`be5553d`](https://github.com/stdlib-js/stdlib/commit/be5553d64471b61353e42499666ab50502ab136b) - **feat:** add support for non-string data types _(by Athan Reines)_
 -   [`2632915`](https://github.com/stdlib-js/stdlib/commit/2632915e58a2949e11840ce39161f5056a700afc) - **test:** fix variable name _(by Athan Reines)_
 
 </details>
