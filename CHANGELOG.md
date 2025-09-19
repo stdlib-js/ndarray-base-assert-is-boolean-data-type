@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`f2d7632`](https://github.com/stdlib-js/stdlib/commit/f2d76323bdd92003f5b1f8457d884f589ef76bd5) - **docs:** update JSDoc _(by Athan Reines)_
 -   [`be5553d`](https://github.com/stdlib-js/stdlib/commit/be5553d64471b61353e42499666ab50502ab136b) - **feat:** add support for non-string data types _(by Athan Reines)_
 -   [`2632915`](https://github.com/stdlib-js/stdlib/commit/2632915e58a2949e11840ce39161f5056a700afc) - **test:** fix variable name _(by Athan Reines)_
 
